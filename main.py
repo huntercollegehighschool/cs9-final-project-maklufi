@@ -1,11 +1,18 @@
 """
-Name(s):
-Name of Project:
+Names: Michelle Yang and Michelle Aklufi
+Name of Project: 
 """
 
-#Write the main part of your program here. Use of the other pages is optional.
+import random
 
-#import page1  # uncomment if you're using page1
-#import page2  # uncomment if you're using page2
-#import page3  # uncomment if you're using page3
-#import page4  # uncomment if you're using page4
+
+story = random.randint(1, 4)
+
+if story == 1:
+  import story1
+elif story == 2:
+  import story2
+elif story == 3: 
+  import story3
+elif story == 4:
+  import story4
