@@ -1,6 +1,6 @@
 """
 Names: Michelle Yang and Michelle Aklufi
-Name of Project: 
+Name of Project: Michelles' MAD Mad Libs!
 """
 
 import random
