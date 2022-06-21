@@ -1,0 +1,30 @@
+name = input("Hey! What's your name? ")
+print(name, "This is the first story!")
+print("")
+
+
+
+sound = input("Enter a kind of sound and capitalize the first letter (e.g. Hiss): ")
+place1 = input("Enter a location: ")
+v1 = input("Enter a verb: ")
+ving1 = input("Enter a verb that ends in -ing: ")
+place2 = input("Enter a location: ")
+a1 = input("Enter an adjective: ")
+time = input("Enter a time of day: ")
+v2 = input("Enter a verb: ")
+liquid = input("Enter a type of liquid: ")
+motion = input("Enter a motion verb: ")
+n1 = input("Enter a noun: ")
+animal = input("Enter an animal species: ")
+bodies1 = input("Enter a plural body part: ")
+color = input("Enter a color: ")
+pluralnoun1 = input("Enter a plural noun: ")
+vegetable = input("Enter a type of vegetable: ")
+pluralnoun2 = input("Enter a plural noun: ")
+ving2 = input("Enter a verb that ends in -ing: ")
+
+print("")
+print("That's all! Here's your story: ")
+print("")
+
+print("I am a vampire.", sound + ". That's my signature slogan. I scream it whenever my enemies come into my", place1, "in the middle of the night. But I'm not a normal vampire. No, vampires are not like the ones you read in books. Real vampires live in", place1, "and", v1, "ever night. Real vampires do not sleep in the day. Instead, real vampires spend all day", ving1, "in", place2 + ". Humans don't see us because we're", a1 + ". Let me describe my daily routine. When I wake up at", time, ", I", v2, "and I think about drinking", liquid + ". Then I", motion, "to my blender and make myself a nice", n1, "smoothie made from", animal, bodies1, "and", color, pluralnoun1 + ". Just kidding. I make", vegetable, "smoothies just like any other normal human, of course. Then I talk to my", pluralnoun2, ", who are my best friends. Is that what humans do? I hope so? Us vampires are very much like humans. Stop", ving2, "us, thank you!", sound + "!")
